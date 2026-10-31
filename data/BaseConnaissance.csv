@@ -1,0 +1,18 @@
+Mots-clés,Catégorie,Sous-catégorie,System,Zone par défaut,Side par défaut,Level par défaut
+mattress,bed,cushion,Textiles,Mattress,TX,F,P,I
+forward,berth,Textiles,Mattress,TX,F,P,I
+table,desk,Furniture,Table,WD,M,C,I
+saloon,Furniture,Table,WD,M,C,I
+plate,dish,Crockery,Plate,KT,M,P,I
+dinner,Crockery,Plate,KT,M,P,I
+cup,glass,Glassware,Glass,KT,M,P,I
+drinking,glass,Glassware,Glass,KT,M,P,I
+sponge,cloth,Cleaning,Sponge,CL,M,P,I
+plug,connector,Electrical,Plug / connector,EL,M,P,I
+shore,power,Electrical,Plug / connector,EL,M,P,I
+lamp,light,Lighting,Lamp,LT,M,C,I
+cabin,Lighting,Lamp,LT,M,C,I
+reading,Lighting,Lamp,LT,M,C,I
+engine,machinery,Engine,Machinery,EN,A,P,U
+bilge,plumbing,Plumbing,Bilge,PL,A,C,U
+pipe,Plumbing,Bilge,PL,A,C,U
