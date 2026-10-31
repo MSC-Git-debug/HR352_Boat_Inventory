@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+build/
+develop-eggs/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel
+~$*.xlsx
+
+# Local
+token.json
+credentials.json
