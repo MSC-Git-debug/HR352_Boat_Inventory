@@ -1,0 +1,10 @@
+ID,Zone,Side,Level,System,Object No.,Item / Description,Category,Subcategory,Quantity,Unit,Condition,Status,Boat Location / Detail,X (m),Y (m),Z (m),Source / Reference,Photo / File Link,3D Component / SketchUp Tag,Measured?,Confidence,Notes,Last Checked
+F-P-I-TX-001,F,P,I,TX,001,Forward berth mattress,Textiles,Mattress,1,pc,Good,Present,Port forward cabin,,,,"Boat / visual inspection",,F-P-I-TX-001,No,Inferred,,
+M-C-I-WD-001,M,C,I,WD,001,Saloon table,Furniture,Table,1,pc,Good,Present,Main saloon,,,,"Boat / visual inspection",,M-C-I-WD-001,No,Inferred,,
+M-P-I-KT-001,M,P,I,KT,001,Dinner plate,Crockery,Plate,1,pc,Good,Present,Galley storage,,,,"Boat / inventory",,M-P-I-KT-001,No,Measured,,
+M-P-I-KT-002,M,P,I,KT,002,Drinking glass,Glassware,Glass,1,pc,Good,Present,Galley storage,,,,"Boat / inventory",,M-P-I-KT-002,No,Measured,,
+M-P-I-CL-001,M,P,I,CL,001,Sponge,Cleaning,Sponge,1,pc,Good,Present,Galley sink,,,,"Boat / inventory",,M-P-I-CL-001,No,Measured,,
+M-P-I-EL-001,M,P,I,EL,001,Shore-power plug,Electrical,Plug / connector,1,pc,Good,Present,Electrical storage,,,,"Boat / inspection",,M-P-I-EL-001,No,Inferred,,
+M-P-I-LT-001,M,P,I,LT,001,Cabin reading lamp,Lighting,Lamp,1,pc,Good,Present,Port cabin,,,,"Boat / inspection",,M-P-I-LT-001,No,Inferred,,
+A-P-U-EN-001,A,P,U,EN,001,Engine / machinery item,Engine,Machinery,1,set,To inspect,Present,Aft machinery space,,,,"Boat / inspection",,A-P-U-EN-001,No,Inferred,,
+A-C-U-PL-001,A,C,U,PL,001,Bilge plumbing item,Plumbing,Bilge,1,pc,To inspect,Present,Bilge,,,,"Boat / inspection",,A-C-U-PL-001,No,Inferred,,
