@@ -86,3 +86,7 @@ Output:
 - /search [term] - Search inventory
 - /stats - Show statistics
 - /help - Show help
+
+## Hull Mesh Repair (Blender Add-on)
+
+`blender_addon/` contains **Hull Watertight Repair**, a Blender add-on to analyze the hull mesh, close holes step by step and make it watertight. See [`blender_addon/README.md`](blender_addon/README.md) for install and workflow.
